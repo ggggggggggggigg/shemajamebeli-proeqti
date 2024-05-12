@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wholeboard{
+    display: flex;
+    justify-content: center;
+}
+.login{
+   margin-top: 8rem;
+}
+.input{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 20.66rem;
+    height: 2.5rem;
+}
+.register{
+    margin-bottom: 0.5rem;
+}
+.top{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 1rem;
+}
+.mail{
+    margin-left: 10rem;
+}
+.buttons{
+    margin-right: 10rem;
+}
+.log{
+    margin-right: 1rem;
+}
+.buto{
+    display: flex;
+}
+.b{
+    height: 2.5rem;
+    margin-right: 10rem;
+}
+.logo{
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+}
+.bw{
+    margin-right: 0.7rem;
+}
+.bww{
+    margin-right: 20rem;
+}
